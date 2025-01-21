@@ -1,0 +1,1 @@
+Mac版本 navicat重置脚本
